@@ -1,0 +1,46 @@
+
+@import url('https://fonts.cdnfonts.com/css/natural-precision');
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body {
+  
+  background: #5c5f7a;
+  color: rgb(43, 174, 226);
+font-family: 'Natural Precision', sans-serif;
+height: 100vh;
+    
+
+                                                
+}
+.counter_container{
+    
+    display: flex;/* Align items in a row */
+    justify-content: center;/* Center items horizontally */
+    align-items: center;/* Center items vertically */
+    margin: 250px auto;/* Center the container */
+    justify-content: space-between;/* Space items evenly */
+    width: 450px;/* Set a fixed width for the container */
+    background-color: aqua;/* Background color for the container */
+    border-radius: 20px;/* Rounded corners for the container */
+    padding: 20px 20px;/* Padding inside the container */
+    box-shadow: 0px 0px 700px  gold;/* Shadow effect for depth:glow effect */
+   
+}
+
+.btm{
+    font-size: 100px;
+    background: none;
+    border: none;
+    font-weight: bold;
+}
+
+.ctr_data{
+     font-size: 100px;
+      font-weight: bold;
+}
+
+
